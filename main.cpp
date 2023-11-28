@@ -13,8 +13,8 @@ int main()
 
     //Delete for part 6
     //Now let's explore inheritance a little... even though either CCar has owner, numWheels, or color they INHERIT from CVehicle!
-    CCar Volt(4,"Bronze","4 Cylinder");
-    CCar Sienna(4,"Green","V6");
+    //CCar Volt(4,"Bronze","4 Cylinder");
+    //CCar Sienna(4,"Green","V6");
 
     cout << "Leaving main Program\n";
     return 0;
